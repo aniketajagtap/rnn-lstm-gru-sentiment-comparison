@@ -1,7 +1,5 @@
 # RNN vs LSTM vs GRU: Sentiment Analysis Comparison
 
-# RNN vs LSTM vs GRU: Sentiment Analysis Comparison
-
 This project compares three recurrent neural-network architectures—Simple RNN, LSTM, and GRU—on movie-review sentiment classification using PyTorch.
 
 ## Project overview
